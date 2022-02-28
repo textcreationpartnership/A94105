@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A succinct narrative of the bloody murder of Sir Edmondbury Godfrey by the papists, Octob. 12. 1678. With the various and wonderful circumstances ... / by Captain William Bedloe, and Mr. Miles Prance ...</title>
+            <author>Bedloe, William, 1650-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94105</idno>
+            <idno type="STC">Wing S6115B</idno>
+            <idno type="STC">ESTC R233718</idno>
+            <idno type="EEBO-CITATION">45789419</idno>
+            <idno type="OCLC">ocm 45789419</idno>
+            <idno type="VID">172729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172729)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A succinct narrative of the bloody murder of Sir Edmondbury Godfrey by the papists, Octob. 12. 1678. With the various and wonderful circumstances ... / by Captain William Bedloe, and Mr. Miles Prance ...</title>
+                  <author>Bedloe, William, 1650-1680.</author>
+                  <author>Prance, Miles, fl. 1678-1689.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the use of Miles Prance,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:172729:1" rendition="simple:additions"/>
+            <head>A Succinct Narrative Of the Bloody Murder of Sir EDMONDBURY GODFREY By the PAPISTS, <hi>Octob.</hi> 12. 1678.</head>
+            <head type="sub">With the various and Wonderful Circumſtances of the Motives, Manner, Time, Place, Perſons, <hi>&amp;c.</hi> relating to the ſaid Mur<g ref="char:EOLhyphen"/>der, Faithfully collected out of the ſeveral reſpective Depoſitions given upon Oath before the <hi>Houſe of Lords</hi> by Captain <hi>William Bedloe,</hi> and Mr. <hi>Miles Prance,</hi> to the Amazement and Horrour of all <hi>True-Proteſtants.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Capt. <hi>Bedloe</hi>'s Depoſitions.</cell>
+                     <cell role="label">Mr. <hi>Prance's</hi> Depoſitions.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">Lords Journ.</note>THe <hi>Papiſts,</hi>
+becauſe Sir <hi>Edmond<g ref="char:EOLhyphen"/>bury</hi> ſeem'd to be an obſtacle to Them, and had taken the Information of <hi>Oates</hi> and <hi>Tongue</hi> about the <hi>Plot,</hi> re<g ref="char:EOLhyphen"/>ſolv'd and contriv'd to take away his Life.</cell>
+                     <cell>
+                        <note place="margin">Lords Journ.</note>1. THe <hi>Papiſts,</hi>
+becauſe Sir <hi>Edmond<g ref="char:EOLhyphen"/>bury</hi> ſeemed an Enemy to the <hi>Queens Servants,</hi> and would not conſent to diſcharge one <hi>Gerald</hi> from Pariſh-Duties, (as another Juſtice did) reſolv'd and contriv'd to take away his life.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">Ibidem</note>2. Purſuant to which Deſign, they hir'd for 4000 <hi>l. Le Phaire, Walſh, At<g ref="char:EOLhyphen"/>kins, Pritchard,</hi> the <hi>Deponent,</hi> and ſome <hi>Jeſuits,</hi> to do the Fact.</cell>
+                     <cell>
+                        <note place="margin">Ibidem</note>2. Purſuant to which Deſign,
+they hired (for what Reward the <hi>Deponent</hi> doth not know) <hi>Hill, Green, Kelly,</hi> the <hi>Depo<g ref="char:EOLhyphen"/>nent, Gerald</hi> and <hi>Berry,</hi> to do the Fact.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">Ibidem</note>3. Accordingly, the above-named Perſons Trepan'd Sir <hi>Edmundbury</hi> in<g ref="char:EOLhyphen"/>to <hi>Somerſet-Houſe</hi> about five a Clock at night, on <hi>Saturday</hi> the 12th. of <hi>Octo<g ref="char:EOLhyphen"/>ber.</hi>
+                     </cell>
+                     <cell>
+                        <note place="margin">Ibidem</note>3. Accordingly the above-named Per<g ref="char:EOLhyphen"/>ſons Trepan'd Sir <hi>Edmondbury</hi> into <hi>So<g ref="char:EOLhyphen"/>merſet-houſe</hi> about <hi>8</hi> or <hi>9</hi> a Clock at night: But the <hi>Deponent</hi> doth not well remember the Day.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">Counc. Journ.</note>4. This Trepan was effected thus; The <hi>Deponent</hi> was told by <hi>Le Phaire,</hi> that <hi>He, Walſh</hi> and <hi>Atkins</hi> met Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury</hi> near the <hi>Kings-Head-Inne</hi> in the <hi>Strand,</hi> and decoy'd him into <hi>So<g ref="char:EOLhyphen"/>merſet-Houſe,</hi> under pretence of appre<g ref="char:EOLhyphen"/>hending ſome <hi>Plotters.</hi>
+                     </cell>
+                     <cell>
+                        <note place="margin">Lords Journ.</note>4. This Trepan was effected thus;
+<hi>Green</hi> gave the <hi>Deponent</hi> notice that <hi>He</hi> and <hi>Gerald</hi> had ſett Sir <hi>Edmondbury</hi> in St. <hi>Clements;</hi> And <hi>Hill</hi> decoy'd him down the <hi>Water-gate,</hi> under pretence of par<g ref="char:EOLhyphen"/>ting a Fray between two Fellows quarrel<g ref="char:EOLhyphen"/>ling in the Yard.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">Lords Journ.</note>5. When they had him in the upper great Court of <hi>Somerſet-Houſe,</hi> They thruſt him into a low Room, put a Piſtol to him, threatned him if he made a noiſe; then ſtifled him between two Pillows; And finding him ſtill alive ſtrangled him with a long <hi>Crevat</hi> in the <hi>Room</hi> where he lay.</cell>
+                     <cell>
+                        <note place="margin">Ibidem</note>5. When they had him near the Rails by the <hi>Queens-Stables, Green</hi> ſtrangled him with a twiſted Handkerchief; Then finding him ſtill alive, rung his Neck quite round, and punch'd him with his Knee in the open Yard; Which done, they dragg'd him into Doctor <hi>Godwin's</hi> Lodgings.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note place="margin">Ibidem</note>6. On the <hi>Monday</hi> following preciſe<g ref="char:EOLhyphen"/>ly between 9 and 10 a Clock at night, the Body was ſhewn to the <hi>Deponent</hi> by <hi>Le Phaire,</hi> in the <hi>Room,</hi> or the next to it where the Duke of <hi>Albemarle</hi> lay in State in the upper ſquare Court; There it was by the help of a <hi>Dark Lanthorn</hi> the <hi>Deponent</hi> ſaw the Body in the preſence of <hi>Le Phaire, Walſh, At<g ref="char:EOLhyphen"/>kins,</hi> and Two other Perſons.</cell>
+                     <cell>
+                        <note place="margin">Ibidem</note>6. On the <hi>Monday</hi> following,
+pre<g ref="char:EOLhyphen"/>ciſely between <hi>9</hi> and <hi>10</hi> a Clock at night, the Body was ſhewn to the <hi>Deponent</hi> by <hi>Hill, Green,</hi> and <hi>Gerald,</hi> in a Room in the back Square-Court below Stairs next the Garden. There it was by the help of a <hi>Dark-Lanthorn</hi> the <hi>Deponent</hi> ſaw the Body in the company of the ſaid <hi>Hill, Green,</hi> and <hi>Gerald,</hi> who were only pre<g ref="char:EOLhyphen"/>ſent.</cell>
+                  </row>
+                  <pb facs="tcp:172729:2"/>
+                  <row>
+                     <cell>
+                        <note place="margin">Lords Journ.</note>7. On the ſame <hi>Monday</hi> at 9 a Clock at night the dead Body was carry'd out through the <hi>great Gate</hi> by certain <hi>Chair-men</hi> (Retainers to <hi>Somerſet-Houſe,</hi>) whoſe Perſons were unknown to the <hi>Deponent;</hi> Theſe perſons carry'd him in a Chair to the corner of <hi>Claren<g ref="char:EOLhyphen"/>don-Houſe,</hi> and from thence convey'd him in a Coach to <hi>Primroſe-Hill,</hi> where they made a Wound in his Body, and laid his Sword by his ſide.</cell>
+                     <cell>
+                        <note place="margin">Lords Journ.</note>7. On the next <hi>Wedneſday</hi> after about <hi>12</hi> a Clock at night, the dead Body was put into a <hi>Sedan,</hi> and carry'd out by the <hi>Deponent</hi> and <hi>Gerald</hi> into <hi>Covent-Garden,</hi> where <hi>Green</hi> and <hi>Kelly</hi> took him up, and carry'd him to <hi>Long-Acre;</hi> There the <hi>Deponent</hi> and <hi>Gerald</hi> reſumed their Burden, and carry'd him to the <hi>So-hoe;</hi> from thence he was convey'd aſtride on <hi>Horſe-back</hi> before <hi>Hill</hi> into the Fields, where they thruſt his Sword through his Body, and caſt him into a Ditch.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="document">
+            <head>A Two-fold Proteſtation of Mr. <hi>Miles Prance,</hi> con<g ref="char:EOLhyphen"/>cerning the Murder of Sir <hi>Edmondbury Godfrey.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">His Proteſtation made firſt before Capt. <hi>Richardſon</hi> in <hi>Newgate,</hi> and then before the <hi>King</hi> and <hi>Council,</hi> ſoon after his firſt Diſcovery in <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1678. Reduced into Form.</cell>
+                     <cell role="label">His Proteſtation made in Solemn man<g ref="char:EOLhyphen"/>ner, <hi>April 14. (82.)</hi> being <hi>Good-Friday,</hi> immediately preceding the Feaſt of <hi>Eaſter,</hi> wherein he received the <hi>Holy Sacrament,</hi> at his Pariſh-Church.</cell>
+                  </row>
+                  <row>
+                     <cell>WHereas by the Suggeſtion of the Devil, Worldly Intereſt, and my own Malice, I <hi>Miles Prance</hi> moſt wick<g ref="char:EOLhyphen"/>edly deviſed an horrid Story of the Murder of Sir <hi>Edmonbury Godfrey,</hi> wherein (being before-hand ſufficiently ſecured both of His Majeſty's Pardon for the pretended Crime, and of Reward for the Diſcovery,) I feigned my ſelf a Party, the better to gain credit to my Damnable Forgery.</cell>
+                     <cell>WHereas ſome bold and Ill Men have ſeveral times by various but different Suggeſtions, and particu<g ref="char:EOLhyphen"/>larly, more openly of late, pretended they are able to Diſprove an Account I have given from my perſonal know<g ref="char:EOLhyphen"/>ledge of the Murder of Sir <hi>Edmundbury Godfrey,</hi> wherein with unſpeakable grief (though yet not without a firm belief of forgiveneſs from Almighty God upon unfeigned Repentance, as well as the grant of His moſt Gracious Majeſty my Earthly Soveraign's Par<g ref="char:EOLhyphen"/>don) I acknowledge my ſelf moſt wick<g ref="char:EOLhyphen"/>edly drawn in, and concerned.</cell>
+                  </row>
+                  <row>
+                     <cell>Now I the ſaid <hi>Miles Prance,</hi> do with unſpeakable grief (though yet not without a firm belief of Forgiveneſs from Almighty God upon ſincere Repentance) hereby in the preſence of the All-ſeeing and Heart-ſearching God, and of all Holy Angels and Good Men, Solemnly and Sincerely declare, that whatever I depoſed upon Oath, relating either to my own Know<g ref="char:EOLhyphen"/>ledge and concurrence in the ſaid Murder of Sir <hi>Edmondbury Godfrey,</hi> or to any other Perſon or Circumſtance touching the ſame, is, in the whole, and every part thereof falſe, and the meer groundleſs product of my own Devilliſh Invention.</cell>
+                     <cell>Now I the ſaid <hi>Miles Prance,</hi> do hereby in the preſence of the All-ſeeing and Heart-ſearching God, and of all Ho<g ref="char:EOLhyphen"/>ly Angels and Good Men, Solemnly and Sincerely avow and declare, that what<g ref="char:EOLhyphen"/>ever I formerly depoſed upon Oath, and ſet forth touching the manner and Cir<g ref="char:EOLhyphen"/>cumſtances (as far as the ſame fell within my knowledge) of the ſaid Sir <hi>Edmond<g ref="char:EOLhyphen"/>bury Godfrey</hi>'s Murder, is moſt punctual<g ref="char:EOLhyphen"/>ly and Religiouſly true.</cell>
+                  </row>
+                  <row>
+                     <cell>For all which my deteſtable wicked<g ref="char:EOLhyphen"/>neſs as with <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> repentant heart I crave the mercy of God, ſo do I humbly beg Pardon of the King, and Forgievneſs of thoſe whom by my Helliſh Malice, I have ſo hainouſly and unjuſtly Accuſed.</cell>
+                     <cell>And as to all and every part of this my Solemn Proteſtation, as I do hereby under my hand moſt ſeriouſly aver and avow it, ſo in farther confirmation of the Truth thereof do I reſolve (with Gods Help and Permiſſion) to receive the <hi>Holy Sacrament.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the Uſe of <hi>Miles Prance,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
